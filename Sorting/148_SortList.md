@@ -1,12 +1,13 @@
-Problem 148: Sort List
+# Leetcode 148. Sort List
 
+## Problem Description
 Sort a linked list in O(n log n) time using constant space complexity.
-
 Example:
 
 Input: 4->2->1->3
 Output: 1->2->3->4
 
+## Solution
 Python solution using merge sort:
 
 ```python
