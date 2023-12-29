@@ -78,3 +78,5 @@ Step-by-step explanation:
 3. Calculate the median based on the partitions. If the total length of the arrays is even, the median is the average of the maximum element on the left side and the minimum element on the right side. If the total length is odd, the median is the maximum element on the left side.
 
 Complexity analysis:
+- Time complexity: O(log(min(m, n))), where m and n are the lengths of nums1 and nums2, respectively. This is because we are performing a binary search on the smaller array.
+- Space complexity: O(1), as we are using a constant amount of space.
