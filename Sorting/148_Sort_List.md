@@ -9,7 +9,6 @@ Output: 1->2->3->4
 
 ## Solution
 Python solution using merge sort:
-
 ```python
 class ListNode:
     def __init__(self, x):
