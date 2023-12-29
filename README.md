@@ -17,22 +17,22 @@ This repository contains copiloted solutions to classic problems from LeetCode. 
 
 ## Sorting
 
-- [Leetcode 4. Median of Two Sorted Arrays](Sorting/4_Median_of_Two_Sorted_Arrays.md)
-- [Leetcode 27. Remove elements](Sorting/27_Remove_elements.md)
-- [Leetcode 56. Merge Intervals](Sorting/56_Merge_Intervals.md)
-- [Leetcode 75. Sort Colors](Sorting/75_Sort_Colors.md)
-- [Leetcode 148. Sort List](Sorting/148_Sort_List.md)
-- [Leetcode 179. Largest Number](Sorting/179_Largest_Number.md)
-- [Leetcode 215. Kth Largest Element](Sorting/215_Kth_Largest_Element.md)
+- [Leetcode 4. Median of Two Sorted Arrays](Sorting/0004_Median_of_Two_Sorted_Arrays.md)
+- [Leetcode 27. Remove elements](Sorting/0027_Remove_elements.md)
+- [Leetcode 56. Merge Intervals](Sorting/0056_Merge_Intervals.md)
+- [Leetcode 75. Sort Colors](Sorting/0075_Sort_Colors.md)
+- [Leetcode 148. Sort List](Sorting/0148_Sort_List.md)
+- [Leetcode 179. Largest Number](Sorting/0179_Largest_Number.md)
+- [Leetcode 215. Kth Largest Element](Sorting/0215_Kth_Largest_Element.md)
 
 ## Linked List
 
-- [Leetcode 92. Reverse Linked List II](Linked_List/92_Reverse_Linked_List_II.md)
-- [Leetcode 141. Linked List Cycle](Linked_List/141_Linked_List_Cycle.md)
-- [Leetcode 160. Intersection of Two Linked Lists](Linked_List/160_Intersection_of_Two_Linked_Lists.md)
-- [Leetcode 206. Reverse Linked List](Linked_List/206_Reverse_Linked_List.md)
-- [Leetcode 328. Odd Even Linked List](Linked_List/328_Odd_Even_Linked_List.md)
-- [Leetcode 876. Middle of the Linked List](Linked_List/876_Middle_of_the_Linked_List.md)
+- [Leetcode 92. Reverse Linked List II](Linked_List/0092_Reverse_Linked_List_II.md)
+- [Leetcode 141. Linked List Cycle](Linked_List/0141_Linked_List_Cycle.md)
+- [Leetcode 160. Intersection of Two Linked Lists](Linked_List/0160_Intersection_of_Two_Linked_Lists.md)
+- [Leetcode 206. Reverse Linked List](Linked_List/0206_Reverse_Linked_List.md)
+- [Leetcode 328. Odd Even Linked List](Linked_List/0328_Odd_Even_Linked_List.md)
+- [Leetcode 876. Middle of the Linked List](Linked_List/0876_Middle_of_the_Linked_List.md)
 
 
 <!-- Add the rest of the categories and problems here -->
