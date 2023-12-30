@@ -67,6 +67,16 @@ This repository contains copiloted solutions to classic problems from LeetCode. 
 - [Leetcode 380. Insert Delete GetRandom O(1)](Hashing/0380_Insert_Delete_GetRandom_O1.md)
 - [Leetcode 348. Design Tic-Tac-Toe](Hashing/0348_Design_Tic-Tac-Toe.md)
 
+## Binary Search
+
+- [Leetcode 33. Search in Rotated Sorted Array](Binary_Search/0033_Search_in_Rotated_Sorted_Array.md)
+- [Leetcode 34. Find First and Last Position of Element in Sorted Array](Binary_Search/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.md)
+- [Leetcode 74. Search a 2D Matrix](Binary_Search/0074_Search_a_2D_Matrix.md)
+- [Leetcode 162. Find Peak Element](Binary_Search/0162_Find_Peak_Element.md)
+- [Leetcode 240. Search a 2D Matrix II](Binary_Search/0240_Search_a_2D_Matrix_II.md)
+- [Leetcode 278. First Bad Version](Binary_Search/0278_First_Bad_Version.md)
+- [Leetcode 1095. Find in Mountain Array](Binary_Search/1095_Find_in_Mountain_Array.md)
+
 <!-- Add the rest of the categories and problems here -->
 
 ## Contributing
