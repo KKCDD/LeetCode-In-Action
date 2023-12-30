@@ -43,6 +43,29 @@ This repository contains copiloted solutions to classic problems from LeetCode. 
 - [Leetcode 362. Design Hit Counter](Queue/0362_Design_Hit_Counter.md)
 - [Leetcode 1429. First Unique Number](Queue/1429_First_Unique_Number.md)
 
+## Stack
+
+- [Leetcode 20. Valid Parentheses](Stack/0020_Valid_Parentheses.md)
+- [Leetcode 150. Evaluate Reverse Polish Notation](Stack/0150_Evaluate_Reverse_Polish_Notation.md)
+- [Leetcode 155. Min Stack](Stack/0155_Min_Stack.md)
+- [Leetcode 224. Basic Calculator II](Stack/0224_Basic_Calculator_II.md)
+- [Leetcode 232. Implement Queue using Stacks](Stack/0232_Implement_Queue_using_Stacks.md)
+- [Leetcode 735. Asteroid Collision](Stack/0735_Asteroid_Collision.md)
+- [Leetcode 1209. Remove All Adjacent Duplicates in String II](Stack/1209_Remove_All_Adjacent_Duplicates_in_String_II.md)
+- [Leetcode 1249. Minimum Remove to Make Valid Parentheses](Stack/1249_Minimum_Remove_to_Make_Valid_Parentheses.md)
+- [Leetcode 1472. Design Browser History](Stack/1472_Design_Browser_History.md)
+
+## Hashing
+
+- [Leetcode 1. Two Sum](Hashing/0001_Two_Sum.md)
+- [Leetcode 49. Group Anagrams](Hashing/0049_Group_Anagrams.md)
+- [Leetcode 73. Set Matrix Zeroes](Hashing/0073_Set_Matrix_Zeroes.md)
+- [Leetcode 128. Longest Consecutive Sequence](Hashing/0128_Longest_Consecutive_Sequence.md)
+- [Leetcode 146. LRU Cache](Hashing/0146_LRU_Cache.md)
+- [Leetcode 299. Bulls and Cows](Hashing/0299_Bulls_and_Cows.md)
+- [Leetcode 350. Intersection of Two Arrays II](Hashing/0350_Intersection_of_Two_Arrays_II.md)
+- [Leetcode 380. Insert Delete GetRandom O(1)](Hashing/0380_Insert_Delete_GetRandom_O1.md)
+- [Leetcode 348. Design Tic-Tac-Toe](Hashing/0348_Design_Tic-Tac-Toe.md)
 
 <!-- Add the rest of the categories and problems here -->
 
