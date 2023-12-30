@@ -34,6 +34,15 @@ This repository contains copiloted solutions to classic problems from LeetCode. 
 - [Leetcode 328. Odd Even Linked List](Linked_List/0328_Odd_Even_Linked_List.md)
 - [Leetcode 876. Middle of the Linked List](Linked_List/0876_Middle_of_the_Linked_List.md)
 
+## Queue
+
+- [Leetcode 54. Spiral Matrix](Queue/0054_Spiral_Matrix.md)
+- [Leetcode 225. Implement Stack using Queues](Queue/0225_Implement_Stack_using_Queues.md)
+- [Leetcode 281. Zigzag Iterator](Queue/0281_Zigzag_Iterator.md)
+- [Leetcode 346. Moving Average from Data Stream](Queue/0346_Moving_Average_from_Data_Stream.md)
+- [Leetcode 362. Design Hit Counter](Queue/0362_Design_Hit_Counter.md)
+- [Leetcode 1429. First Unique Number](Queue/1429_First_Unique_Number.md)
+
 
 <!-- Add the rest of the categories and problems here -->
 
