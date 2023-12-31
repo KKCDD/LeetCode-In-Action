@@ -94,9 +94,39 @@ This repository contains copiloted solutions to classic problems from LeetCode. 
 - [Leetcode 283. Move Zeroes](Two_Pointers/0283_Move_Zeroes.md)
 - [Leetcode 647. Palindromic Substrings](Two_Pointers/0647_Palindromic_Substrings.md)
 
+## BFS
+
+- [Leetcode 102. Binary Tree Level Order Traversal](BFS/0102_Binary_Tree_Level_Order_Traversal.md)
+- [Leetcode 103. Binary Tree Zigzag Level Order Traversal](BFS/0103_Binary_Tree_Zigzag_Level_Order_Traversal.md)
+- [Leetcode 127. Word Ladder](BFS/0127_Word_Ladder.md)
+- [Leetcode 314. Binary Tree Vertical Order Traversal](BFS/0314_Binary_Tree_Vertical_Order_Traversal.md)
+- [Leetcode 542. 01 Matrix](BFS/0542_01_Matrix.md)
+- [Leetcode 752. Open the Lock](BFS/0752_Open_the_Lock.md)
+- [Leetcode 815. Bus Routes](BFS/0815_Bus_Routes.md)
+- [Leetcode 1091. Shortest Path in Binary Matrix](BFS/1091_Shortest_Path_in_Binary_Matrix.md)
+- [Leetcode 1293. Shortest Path in a Grid with Obstacles Elimination](BFS/1293_Shortest_Path_in_a_Grid_with_Obstacles_Elimination.md)
+
+## DFS
+
+- [Leetcode 101. Symmetric Tree](DFS/0101_Symmetric_Tree.md)
+- [Leetcode 104. Maximum Depth of Binary Tree](DFS/0104_Maximum_Depth_of_Binary_Tree.md)
+- [Leetcode 105. Construct Binary Tree from Preorder and Inorder Traversal](DFS/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.md)
+- [Leetcode 124. Binary Tree Maximum Path Sum](DFS/0124_Binary_Tree_Maximum_Path_Sum.md)
+- [Leetcode 130. Surrounded Regions](DFS/0130_Surrounded_Regions.md)
+- [Leetcode 133. Clone Graph](DFS/0133_Clone_Graph.md)
+- [Leetcode 200. Number of Islands](DFS/0200_Number_of_Islands.md)
+- [Leetcode 226. Invert Binary Tree](DFS/0226_Invert_Binary_Tree.md)
+- [Leetcode 236. Lowest Common Ancestor of a Binary Tree](DFS/0236_Lowest_Common_Ancestor_of_a_Binary_Tree.md)
+- [Leetcode 297. Serialize and Deserialize Binary Tree](DFS/0297_Serialize_and_Deserialize_Binary_Tree.md)
+- [Leetcode 417. Pacific Atlantic Water Flow](DFS/0417_Pacific_Atlantic_Water_Flow.md)
+- [Leetcode 490. The Maze](DFS/0490_The_Maze.md)
+- [Leetcode 543. Diameter of Binary Tree](DFS/0543_Diameter_of_Binary_Tree.md)
+- [Leetcode 951. Flip Equivalent Binary Trees](DFS/0951_Flip_Equivalent_Binary_Trees.md)
+- [Leetcode 987. Vertical Order Traversal of a Binary Tree](DFS/0987_Vertical_Order_Traversal_of_a_Binary_Tree.md)
 
 ## Graph
 - [Leetcode 277. Find the Celebrity](Graph/0277_Find_the_Celebrity.md)
+- [Leetcode 323. Connected Component in Undirected Graph](Graph/0323_Connected_Component_in_Undirected_Graph.md)
 
 
 <!-- Add the rest of the categories and problems here -->
