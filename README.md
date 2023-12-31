@@ -124,7 +124,16 @@ This repository contains copiloted solutions to classic problems from LeetCode. 
 - [Leetcode 951. Flip Equivalent Binary Trees](DFS/0951_Flip_Equivalent_Binary_Trees.md)
 - [Leetcode 987. Vertical Order Traversal of a Binary Tree](DFS/0987_Vertical_Order_Traversal_of_a_Binary_Tree.md)
 
+## Prefix Sum
+
+- [Leetcode 53. Maximum Subarray](Prefix_Sum/0053_Maximum_Subarray.md)
+- [Leetcode 304. Range Sum Query 2D - Immutable](Prefix_Sum/0304_Range_Sum_Query_2D_Immutable.md)
+- [Leetcode 523. Continuous Subarray Sum](Prefix_Sum/0523_Continuous_Subarray_Sum.md)
+- [Leetcode 1031. Maximum Sum of Two Non-Overlapping Subarrays](Prefix_Sum/1031_Maximum_Sum_of_Two_Non_Overlapping_Subarrays.md)
+- [Leetcode 1423. Maximum Points You Can Obtain from Cards](Prefix_Sum/1423_Maximum_Points_You_Can_Obtain_from_Cards.md)
+
 ## Graph
+
 - [Leetcode 277. Find the Celebrity](Graph/0277_Find_the_Celebrity.md)
 - [Leetcode 323. Connected Component in Undirected Graph](Graph/0323_Connected_Component_in_Undirected_Graph.md)
 
