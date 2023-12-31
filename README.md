@@ -14,6 +14,7 @@ This repository contains copiloted solutions to classic problems from LeetCode. 
 8. [BFS](#bfs)
 9. [DFS](#dfs)
 10. [Prefix Sum](#prefix-sum)
+11. [Graph](#graph)
 
 ## Sorting
 
@@ -66,6 +67,8 @@ This repository contains copiloted solutions to classic problems from LeetCode. 
 - [Leetcode 350. Intersection of Two Arrays II](Hashing/0350_Intersection_of_Two_Arrays_II.md)
 - [Leetcode 380. Insert Delete GetRandom O(1)](Hashing/0380_Insert_Delete_GetRandom_O1.md)
 - [Leetcode 348. Design Tic-Tac-Toe](Hashing/0348_Design_Tic-Tac-Toe.md)
+- [Leetcode 409. Longest Palindrome](Hashing/0409_Longest_Palindrome.md)
+- [Leetcode 454. 4Sum II](Hashing/0454_4Sum_II.md)
 
 ## Binary Search
 
@@ -76,6 +79,25 @@ This repository contains copiloted solutions to classic problems from LeetCode. 
 - [Leetcode 240. Search a 2D Matrix II](Binary_Search/0240_Search_a_2D_Matrix_II.md)
 - [Leetcode 278. First Bad Version](Binary_Search/0278_First_Bad_Version.md)
 - [Leetcode 1095. Find in Mountain Array](Binary_Search/1095_Find_in_Mountain_Array.md)
+
+## Two Pointers
+
+- [Leetcode 1. Two Sum](Two_Pointers/0001_Two_Sum.md)
+- [Leetcode 5. Longest Palindromic Substring](Two_Pointers/0005_Longest_Palindromic_Substring.md)
+- [Leetcode 11. Container With Most Water](Two_Pointers/0011_Container_With_Most_Water.md)
+- [Leetcode 15. 3Sum](Two_Pointers/0015_3Sum.md)
+- [Leetcode 16. 3Sum Closest](Two_Pointers/0016_3Sum_Closest.md)
+- [Leetcode 18. 4Sum](Two_Pointers/0018_4Sum.md)
+- [Leetcode 125. Valid Palindrome](Two_Pointers/0125_Valid_Palindrome.md)
+- [Leetcode 167. Two Sum II - Input array is sorted](Two_Pointers/0167_Two_Sum_II_Input_array_is_sorted.md)
+- [Leetcode 186. Reverse Words in a String II](Two_Pointers/0186_Reverse_Words_in_a_String_II.md)
+- [Leetcode 283. Move Zeroes](Two_Pointers/0283_Move_Zeroes.md)
+- [Leetcode 647. Palindromic Substrings](Two_Pointers/0647_Palindromic_Substrings.md)
+
+
+## Graph
+- [Leetcode 277. Find the Celebrity](Graph/0277_Find_the_Celebrity.md)
+
 
 <!-- Add the rest of the categories and problems here -->
 
