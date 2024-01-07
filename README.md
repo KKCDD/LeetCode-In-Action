@@ -15,7 +15,7 @@ This repository contains copiloted solutions to classic problems from LeetCode. 
 9. [DFS](#dfs)
 10. [Prefix Sum](#prefix-sum)
 11. [Graph](#graph)
-12. [String&Array](#string&array)
+12. [String&Array](#string--array)
 
 ## Sorting
 
