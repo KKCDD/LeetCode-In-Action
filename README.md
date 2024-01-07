@@ -15,6 +15,7 @@ This repository contains copiloted solutions to classic problems from LeetCode. 
 9. [DFS](#dfs)
 10. [Prefix Sum](#prefix-sum)
 11. [Graph](#graph)
+12. [String&Array](#string&array)
 
 ## Sorting
 
@@ -137,6 +138,9 @@ This repository contains copiloted solutions to classic problems from LeetCode. 
 
 - [Leetcode 277. Find the Celebrity](Graph/0277_Find_the_Celebrity.md)
 - [Leetcode 323. Connected Component in Undirected Graph](Graph/0323_Connected_Component_in_Undirected_Graph.md)
+
+## String & Array
+- [Leetcode 6. ZigZag Conversion](String&Array/0006_ZigZag_Conversion.md)
 
 
 <!-- Add the rest of the categories and problems here -->
